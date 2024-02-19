@@ -6,6 +6,8 @@ namespace Chocorandom
     {
         static void Main()
         {
+            // NEW COMMENT OMYGOOOOOOOOOD.
+
             // Setting last data far away in the past.
             DateTime lastData = new DateTime(1991, 02, 19);
 
